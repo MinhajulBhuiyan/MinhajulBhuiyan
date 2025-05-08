@@ -104,14 +104,33 @@ A console-based C++ application for solving and visualizing common mathematical 
 
 ---
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhajulBhuiyan&show_icons=true&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhajulBhuiyan&hide_border=true" />
+<h3>Github Streak</h3>
+<p>
+  <a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinhajulBhuiyan&theme=dracula&hide_border=true&border_radius=5.6" alt="GitHub Streak" />
+</a>
 </p>
 
----
+
+<h3>Github Activity and Top Languages</h3>
+  <p>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api?username=MinhajulBhuiyan&show_icons=true&theme=dracula&hide_border=true&card_width=350&border_radius=5.6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajulBhuiyan&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=8&layout=compact&card_width=350" />
+    </a>
+  </p>
+
+
+<h3>Wakatime Statistics</h3>
+  <p>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinhajulBhuiyan&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=700" />
+    </a>
+  </p>
+
+
+<h3>Activity Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhajulBhuiyan&area=true&hide_border=true&theme=dracula&days=30&radius=5.6" />
 
 ## 📬 Get in Touch
 
@@ -119,7 +138,10 @@ A console-based C++ application for solving and visualizing common mathematical 
   <a href="mailto:bhuiyan.minhajul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/minhajul-bhuiyan-11b388218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MinhajulBhuiyan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/minhajulbhuiyan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/PringleSkill"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
 </p>
+
 
 ---
 
