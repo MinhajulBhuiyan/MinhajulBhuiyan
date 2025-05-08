@@ -104,27 +104,13 @@ A console-based C++ application for solving and visualizing common mathematical 
 
 ---
 
-<h3>Github Streak</h3>
-<p>
-  <a>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinhajulBhuiyan&theme=dracula&hide_border=true&border_radius=5.6" alt="GitHub Streak" />
-</a>
-</p>
-
+<h2>Github Insights</h2>
 
 <h3>Github Activity and Top Languages</h3>
   <p>
     <a>
       <img src="https://github-readme-stats.vercel.app/api?username=MinhajulBhuiyan&show_icons=true&theme=dracula&hide_border=true&card_width=350&border_radius=5.6" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajulBhuiyan&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=8&layout=compact&card_width=350" />
-    </a>
-  </p>
-
-
-<h3>Wakatime Statistics</h3>
-  <p>
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinhajulBhuiyan&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=700" />
     </a>
   </p>
 
