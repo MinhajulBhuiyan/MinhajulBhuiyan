@@ -1,11 +1,14 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:00c853&height=220&section=header&text=Minhajul%20Abedin%20Bhuiyan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
-<p align="center"><strong>Software Engineering Student | Full-Stack Developer | System Designer | Clean Code Advocate</strong></p>
+<p align="center"><strong>Software Engineering Student | Full-Stack Developer | ML Enthusiast | System Designer</strong></p>
+
+<img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,react,reactnative,expo,next,nodejs,express,mongodb,postgres,firebase,git,docker,linux,vscode,vercel,render&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,threejs,nodejs,express,python,java,cs,mongodb,postgres,mysql,sqlite,firebase,fastapi,git,github,docker,linux,vscode,postman,figma,redis&perline=9" />
 </p>
+
 
 ---
 
